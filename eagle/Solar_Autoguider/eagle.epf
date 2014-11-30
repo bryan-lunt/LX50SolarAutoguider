@@ -393,11 +393,12 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
+Views=" 1: -7.39498 4.90943 172.42 115.041"
 Sheet="1"
 
 [Win_2]
 Type="Board Editor"
-Loc="25 139 1245 899"
+Loc="25 113 1245 873"
 State=2
 Number=2
 File="main.brd"
